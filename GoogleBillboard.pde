@@ -11,6 +11,7 @@ public void setup()
         break;
       }
     }
+    System.out.println(a);
 }  
 
 public boolean isPrime(double num)  
